@@ -21,3 +21,4 @@ I am learning Git and GitHub to build practical Cloud and DevOps projects.
 - Git merging
 - GitHub pull requests
 - basic version control workflow
+- Practiced Git branching and feature branches.

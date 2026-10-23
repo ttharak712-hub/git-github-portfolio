@@ -14,3 +14,10 @@
 ## My Goal
 
 I am learning Git and GitHub to build practical Cloud and DevOps projects.
+- Practiced my first Git commit and push.
+## Skills I Am Practicing
+
+- Git branching
+- Git merging
+- GitHub pull requests
+- basic version control workflow

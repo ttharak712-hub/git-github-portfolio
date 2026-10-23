@@ -34,4 +34,4 @@ This portfolio will grow as I build more hands-on projects related to Git, GitHu
 
 ## Author
 
-GitHub: Add your GitHub profile link here.
+GitHub: https://github.com/ttharak712-hub/git-github-portfolio
